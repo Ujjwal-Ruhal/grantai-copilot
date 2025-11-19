@@ -25,7 +25,7 @@ It searches funding opportunities, extracts requirements, and generates professi
 ---
 
 ## 🏗 System Architecture
-
+{
 User (Frontend Input)
 |
 ▼
@@ -38,6 +38,7 @@ Streamlit UI <──► Backend Orchestrator (planned)
 |
 ▼
 Proposal Display + Download (Frontend)
+}
 
 ---
 
@@ -97,60 +98,64 @@ streamlit run app.py
 
 ---
 
+
+---
+
 ## 🚀 Features (Current + Upcoming)
 
-✔ **Current (Frontend MVP)**  
-- 🌐 Grant search UI  
-- 📌 Grant eligibility viewer  
-- ✍️ Proposal generator interface  
-- 📄 Download & copy proposal  
+✔ **Current (Frontend MVP)**
+- 🌐 Grant search UI
+- 📌 Grant eligibility viewer
+- ✍️ Proposal generator interface
+- 📄 Download & copy proposal
 
-🔜 **Next (Backend & AI)**  
-- 🤖 Real grant search (Scout Agent API)  
-- 🧠 Eligibility extraction from PDFs (Analyst Agent)  
-- ✨ Custom proposal writer via LLM (Writer Agent)  
-- 🏆 Smart ranking for best grant matches  
+🔜 **Next (Backend & AI)**
+- 🤖 Real grant search (Scout Agent API)
+- 🧠 Eligibility extraction from PDFs (Analyst Agent)
+- ✨ Custom proposal writer via LLM (Writer Agent)
+- 🏆 Smart ranking for best grant matches
 
 ---
 
 ## 🧑‍💻 Team & Responsibilities
 
-### 🔵 Ujjwal Ruhal — Lead Frontend & UI Developer  
-- Designed end-to-end Streamlit interface  
-- Built reusable UI components  
-- Worked on proposal UX & interactivity  
-- Prepared polished demo UI for judges  
-**LinkedIn:** [https://www.linkedin.com/in/ujjwal-ruhal-55ba52187/](https://www.linkedin.com/in/ujjwal-ruhal-55ba52187/)  
+- 🔵 **Ujjwal Ruhal** — Lead Frontend & UI Developer  
+  - Designed end-to-end Streamlit interface  
+  - Built reusable UI components  
+  - Developed proposal UX & interactivity  
+  - Prepared polished demo UI for judges  
+  - [LinkedIn](https://www.linkedin.com/in/ujjwal-ruhal-55ba52187/)
 
-### 🟣 Shek Lun — Technical Lead & Backend Developer  
-- Architected multi-agent system  
-- Lead on deployment & API orchestration  
+- 🟣 **Shek Lun** — Technical Lead & Backend Developer  
+  - Architected multi-agent system  
+  - Led deployment & API orchestration
 
-### 🟠 Nakazzi Kiyaga-Mulindwa — Project & Presentation Lead  
-- Documentation, pitch, & submission strategy  
-- UAT & quality control  
+- 🟠 **Nakazzi Kiyaga-Mulindwa** — Project & Presentation Lead  
+  - Documentation, pitch, & submission strategy  
+  - UAT & quality control
 
-### 🟢 Hemanth Reganti — Chief Architect & Strategic Advisor  
-- System overview & scalability guidance  
-- Technical quality review  
+- 🟢 **Hemanth Reganti** — Chief Architect & Strategic Advisor  
+  - System overview & scalability guidance  
+  - Technical quality review
 
 ---
 
 ## 🛡 Ethical & Accessibility Notes
 
-- Promotes equality in funding access  
-- Supports small organizations without financial barriers  
-- Will include multilingual support in future  
-- No discriminatory filtering in grant ranking  
+- Promotes equality in funding access
+- Supports small organizations without financial barriers
+- Will include multilingual support in future
+- No discriminatory filtering in grant ranking
 
 ---
 
 ## 🌱 Future Vision
 
-GrantAI Co-Pilot aims to become a universal funding assistant used by nonprofits worldwide.
+GrantAI Co-Pilot aims to become:
+- A universal funding assistant used by nonprofits worldwide.
 
-### Planned roadmap:
-- 🌍 Multi-language proposal output  
-- 📑 Extract data from scanned PDFs  
-- 💰 Funding success probability scoring  
-- 🤝 NGO collaboration dashboard  
+**Planned roadmap:**
+- 🌍 Multi-language proposal output
+- 📑 Extract data from scanned PDFs
+- 💰 Funding success probability scoring
+- 🤝 NGO collaboration dashboard
