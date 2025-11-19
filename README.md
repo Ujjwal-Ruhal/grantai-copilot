@@ -119,12 +119,13 @@ streamlit run app.py
 
 ## 🧑‍💻 Team & Responsibilities
 
-- ### 🔵 **Ujjwal Ruhal — Lead Frontend & UI Developer**
+### 🔵 **Ujjwal Ruhal — Lead Frontend & UI Developer**
 - Designed complete Streamlit interface  
 - Built reusable UI components  
 - Handled proposal UX & interactivity  
 - Prepared polished demo UI for judges  
 - 🔗 **LinkedIn:** [linkedin.com/in/ujjwal-ruhal](https://www.linkedin.com/in/ujjwal-ruhal-55ba52187/)
+
 
 - 🟣 **Shek Lun** — Technical Lead & Backend Developer  
   - Architected multi-agent system  
